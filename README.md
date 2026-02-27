@@ -103,3 +103,13 @@ Online Retail dataset (2010–2011)
 
 ## 🎯 Objective
 To analyze retail sales performance and build an interactive business dashboard for insights.
+## 📸 Dashboard Preview
+
+### Full Dashboard
+![Dashboard Overview](dashboard_overview.png)
+
+### Filtered by Year – 2010
+![Dashboard 2010](dashboard_2010.png)
+
+### Filtered by Year – 2011
+![Dashboard 2011](dashboard_2011.png)
